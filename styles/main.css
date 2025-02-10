@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: normal;
+    font-family: "Darker Grotesque";
+}
+
+h1 {
+color: #fff;
+font-size: 96px;
+font-weight: 700;
+}
+
+h2 {
+color: #DEB959;
+;
+font-size: 48px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 34px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.slide {
+background-image: url();
+background-repeat: no-repeat;
+}
+
+.about {
+background-color: #2C5680;
+}
+
+.values {
+    background-color: #333333;
+}
+
+.valuesArray {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lobinhos {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#subtitle {
+    color: #fff;
+    font-size: 30px;
+}
